@@ -1,4 +1,4 @@
-# GitHub Actions Fundamentals - 2
+# GitHub Actions Fundamentals - 3
 
 Repo for the `GitHub Actions Fundamentals` training.
 
