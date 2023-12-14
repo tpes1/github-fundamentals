@@ -2,7 +2,7 @@ name: Reuse other workflow
 on: [workflow_dispatch]
 jobs:
   call-workflow:
-    uses: ./.github/workflows/reusable.yaml
+    uses: ./.github/workflows/reusable.yml
     with:
       who-to-greet: '@tpes1'
   use-output:
